@@ -5,7 +5,7 @@
     "homeUrl":"https://mynotes.yanhome.online",
     "avatarUrl":"https://raw.githubusercontent.com/thelazypig123/photos/main/猫_画板-1-150x150.jpg",
     "faviconUrl":"https://raw.githubusercontent.com/thelazypig123/photos/main/8833879753.jpg",
-    "style":"<style>#postBody{font-size:20px;background-image:https://raw.githubusercontent.com/thelazypig123/photos/main/11209.jpg}</style>",
+    "style":"<style>#postBody{font-size:20px;background-image:url("https://raw.githubusercontent.com/thelazypig123/photos/main/11209.jpg)"}</style>",
     "singlePage":[],
     "email":"thelazypig321@qq.com",
     "startSite":"01/22/2024",
